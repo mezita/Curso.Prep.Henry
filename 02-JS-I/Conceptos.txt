@@ -1,0 +1,7 @@
+* Variables = es una forma de almacenar un dato en la memoria de la computadora
+en la cual podemos acceder cuando lo precisemos o modificarlo.
+
+* Strings = es un tipo de variables, generalmente son palabras que podemos unirlas con otras variables
+del mismo formato, no podemos mezclar numeros con palabras.
+
+* Funciones = es un conjunto de codigo que podemos unirlo y 
